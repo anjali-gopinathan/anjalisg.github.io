@@ -1,5 +1,9 @@
 ## Anjali Gopinathan
 
+![Anjali's profile picture](https://github.com/anjalisg/anjalisg.github.io/blob/master/src/images/Profile_MtBenson_Nanaimo_2019Aug.jpg)
+
+
+
 Welcome to my profile! I am a Computer Engineering and Computer Science student at USC's Viterbi School of Engineering. 
 
 ### Tech, Math, and Computer Engineering 
